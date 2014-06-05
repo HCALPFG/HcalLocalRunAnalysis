@@ -1,4 +1,4 @@
 HcalLocalRunAnalysis
 ====================
 
-Code for analyzing local runs
+Code for analyzing output of HcalDigiAnalyzer.  Independent of CMSSW.
